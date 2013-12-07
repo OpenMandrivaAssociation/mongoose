@@ -6,7 +6,7 @@ Name:		mongoose
 Group:		System/Servers
 Summary:	An easy-to-use self-sufficient web server
 Version:	3.1
-Release:	2
+Release:	3
 License:	MIT
 URL:		http://code.google.com/p/mongoose
 Source0:	http://mongoose.googlecode.com/files/mongoose-%{version}.tgz
