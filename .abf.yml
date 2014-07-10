@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   mongoose-3.1.tgz: c367932b5faa7c86b70bf8f0351792a0bcc68c03
+sources:
+  mongoose-5.3.zip: d337221788ccab5858cba250bfe17af1f931e5f9
