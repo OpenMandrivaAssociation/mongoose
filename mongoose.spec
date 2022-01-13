@@ -6,7 +6,7 @@ Release:	5
 License:	MIT
 URL:		http://code.google.com/p/mongoose
 Source0:	http://mongoose.googlecode.com/files/mongoose-%{version}.zip
-BuildRequires:	openssl-devel
+BuildRequires:	pkgconfig(openssl)
 
 %description
 Mongoose web server executable is self-sufficient, it does not depend on 
