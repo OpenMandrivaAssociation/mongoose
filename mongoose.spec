@@ -4,7 +4,7 @@ Summary:	An easy-to-use self-sufficient web server
 Version:	5.3
 Release:	6
 License:	MIT
-URL:		http://code.google.com/p/mongoose
+URL:		https://code.google.com/p/mongoose
 Source0:	http://mongoose.googlecode.com/files/mongoose-%{version}.zip
 BuildRequires:	pkgconfig(openssl)
 
